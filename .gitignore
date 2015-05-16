@@ -1,0 +1,7 @@
+.DS_Store
+Thumbs.db
+.sass-cache
+.*.sw[a-z]
+node_modules
+fe-coverage-results.xml
+fe-test-results.xml
